@@ -19,3 +19,4 @@ author_profile: true
 * Lecture 6 (Sept. 12th, 2024): Relationships between eigendecomposition and SVD; non-uniqueness of SVD  (book Chapter 3)
 * Lecture 7 (Sept. 17th, 2024): Subspaces; Linear Independency; Bases; Dimension  (book Chapter 4)
 * Lecture 8 (Sept. 19th, 2024): Sum of subspaces; Range; Rank; Nullspace (book Chapter 4)
+* Lecture 9 (Sept. 24th, 2024): Decomposition Theorem; Nullity + rank thm.; Four fundamental subspaces; Anatomy of SVD  (book Chapter 4)
