@@ -21,3 +21,5 @@ author_profile: true
 * Lecture 8 (Sept. 19th, 2024): Sum of subspaces; Range; Rank; Nullspace (book Chapter 4)
 * Lecture 9 (Sept. 24th, 2024): Decomposition Theorem; Nullity + rank thm.; Four fundamental subspaces; Anatomy of SVD  (book Chapter 4)
 * Lecture 10 (Sept. 26th, 2024): Projection onto a subset; Signal classification by nearest subset; Convex sets  (book Chapter 4)
+* Lecture 11 (Oct. 1st, 2024): Convex functions; Linear least-squares estimation; LLS and SVD; Moore-Penrose pseudoinverse  (book Chapter 4-5)
+* Lecture 12 (Oct. 3rd, 2024): Pseudoinverse and SVD; LLS using peseudoinverse; Minimum-norm LLS solution via pseudoinverse (book Chapter 5)
