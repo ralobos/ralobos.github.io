@@ -25,3 +25,5 @@ author_profile: true
 * Lecture 12 (Oct. 3rd, 2024): Pseudoinverse and SVD; LLS using peseudoinverse; Minimum-norm LLS solution via pseudoinverse (book Chapter 5)
 * Lecture 13 (Oct. 8th, 2024): Condition number; Tikhonov regularization; Projection matrices (book Chapter 5)
 * Lecture 14 (Oct. 10th, 2024): Orthogonal projection matrices; Projection onto a subspace (revisited); Vector norms (book Chapter 5-6)
+* Lecture 15 (Oct. 17th, 2024): Unitarily invariant vector norms; Inner products; Cauchy-Schwarz inequality; Matrix norms (book Chapter 6)
+* Lecture 16 (Oct. 20th, 2024): Induced matrixn norms; MAtrix inner product inequalities; Singular values inequalities; Spectral radius (book Chapter 6)  
