@@ -29,4 +29,5 @@ author_profile: true
 * Lecture 16 (Oct. 22nd, 2024): Induced matrix norms; Matrix inner product inequalities; Singular values inequalities; Spectral radius (book Chapter 6)
 * Lecture 17 (Oct. 24th, 2024): Procuste Analysis (book Chapter 6)
 * Lecture 18 (Oct. 29th, 2024): Low-rank approximation via Frobenius norm; Eckart-Young-Mirsky thm: Non-uniqueness of LR approx.  (book Chapter 7)
-* Lecture 19 (Oct. 31st, 2024): Multidimensional scaling (book Chapter 7)  
+* Lecture 19 (Oct. 31st, 2024): Multidimensional scaling (book Chapter 7)
+* Lecture 20 (Nov. 05th, 2024): Proximal Operators; Soft/hard thresholding; General unitarily invariant formulation (low-rank approximation) (book Chapter 7)  
