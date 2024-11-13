@@ -31,4 +31,5 @@ author_profile: true
 * Lecture 18 (Oct. 29th, 2024): Low-rank approximation via Frobenius norm; Eckart-Young-Mirsky thm: Non-uniqueness of LR approx.  (book Chapter 7)
 * Lecture 19 (Oct. 31st, 2024): Multidimensional scaling (book Chapter 7)
 * Lecture 20 (Nov. 05th, 2024): Proximal Operators; Soft/hard thresholding; General unitarily invariant formulation (low-rank approximation) (book Chapter 7)
-* Lecture 21 (Nov. 07th, 2024): Rank selection; SURE estimator; OptShrink  (book Chapter 7)  
+* Lecture 21 (Nov. 07th, 2024): Rank selection; SURE estimator; OptShrink  (book Chapter 7)
+* Lecture 22 (Nov. 12th, 2024): Companion matrices; Vandermonde matrices; Circulant matrices and the DFT  (book Chapter 8)  
