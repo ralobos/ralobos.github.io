@@ -34,4 +34,5 @@ author_profile: true
 * Lecture 21 (Nov. 07th, 2024): Rank selection; SURE estimator; OptShrink  (book Chapter 7)
 * Lecture 22 (Nov. 12th, 2024): Companion matrices; Vandermonde matrices; Circulant matrices and the DFT  (book Chapter 8)
 * Lecture 23 (Nov. 14th, 2024): Toeplitz matrices; Power Iieration: Gersgorin disks  (book Chapter 8)
-* Lecture 24 (Nov. 14th, 2024): Square nonnegative matrices; Positive matrices; Primitive matrices; Irreducible matrices  (book Chapter 8)  
+* Lecture 24 (Nov. 19th, 2024): Square nonnegative matrices; Positive matrices; Primitive matrices; Irreducible matrices  (book Chapter 8)
+* Lecture 25 (Nov. 21th, 2024): Perron-Frobenius Theorems; Preconditioned gradient descent (convergence); Lipschitz functions; Nesterov's method  (book Chapter 9)  
