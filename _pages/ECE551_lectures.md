@@ -37,4 +37,4 @@ author_profile: true
 * Lecture 24 (Nov. 19th, 2024): Square nonnegative matrices; Positive matrices; Primitive matrices; Irreducible matrices  (book Chapter 8)
 * Lecture 25 (Nov. 21th, 2024): Perron-Frobenius Theorems; Preconditioned gradient descent (convergence); Lipschitz functions; Nesterov's method  (book Chapter 9)
 * Lecture 26 (Nov. 26th, 2024): Matrix completion; Noiseless case: Solution through alternating projection method  (book Chapter 10)
-* Lecture 25 (Dec. 3rd, 2024): Matrix completion; Noisy case: Majorize-minimize optimization  (book Chapter 10)
+* Lecture 27 (Dec. 3rd, 2024): Matrix completion; Noisy case: Majorize-minimize optimization  (book Chapter 10)
