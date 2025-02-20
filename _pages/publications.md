@@ -39,7 +39,9 @@ the Cramér-Rao lower-bound in astrometry: One dimensional case.](https://iopsci
 <b>Conference</b>
 ======
 
-* <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2023. (In press).</em>
+* <b>R. A. Lobos</b>, X. Wang, Z. Liu, J. A. Fessler, D. C. Noll.  <br>[Spatiotemporal maps for dynamic MRI reconstruction: a proof-of-principle demonstration on single-coil animal gastrointestinal data.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2025. (In press).</em>
+
+* <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2023. .</em>
 
 * G. Ramos-Llorden, <b>R. A. Lobos</b>, T. H. Kim, Q. Tian, S. Tounetki, T. Witzel, B. Keil, A. Yendiki, B. Bilgic, J. P. Haldar, S. Huang. <br>[Improved multi-shot EPI ghost correction for high gradient strength diffusion MRI using structured low-rank modeling k-space reconstruction.](https://index.mirasmart.com/ISMRM2021/PDFfiles/1346.html)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2021, p. 1346.</em>
 
