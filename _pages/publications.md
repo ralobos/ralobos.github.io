@@ -12,6 +12,8 @@ author_profile: true
 <b>Preprints</b>
 ======
 
+*  <b>R. A. Lobos</b>, J. Salazar Cavazos, R. R. Nadakuditi, J. A. Fessler.  <br>[Smooth optimization algorithms for global and locally low-rank regularizers](https://arxiv.org/abs/2505.06073)<br><em> arXiv:2505.06073, 2025</em>. 
+
 <b>Technical Reports</b>
 ======
 * <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[PISCO Software Version 1.0](https://sipi.usc.edu/reports/abstracts.php?rid=sipi-458)<br><em> University of Southern California, Los Angeles, CA, Technical Report USC-SIPI-458, March 2023.</em><br>[Related software.](https://mr.usc.edu/download/pisco/)<br>
