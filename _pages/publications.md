@@ -41,7 +41,7 @@ the Cramér-Rao lower-bound in astrometry: One dimensional case.](https://iopsci
 <b>Conference</b>
 ======
 
-* <b>R. A. Lobos</b>, X. Wang, Z. Liu, J. A. Fessler, D. C. Noll.  <br>[Spatiotemporal maps for dynamic MRI reconstruction: a proof-of-principle demonstration on single-coil animal gastrointestinal data.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2025. (In press).</em><br><b><font color="blue">Recipient of a Magna Cum Laude ISMRM Merit Award.</font></b> 
+* <b>R. A. Lobos</b>, X. Wang, Z. Liu, J. A. Fessler, D. C. Noll.  <br>[Spatiotemporal maps for dynamic MRI reconstruction: a proof-of-principle demonstration on single-coil animal gastrointestinal data.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2025, p. 2622.</em><br><b><font color="blue">Recipient of a Magna Cum Laude ISMRM Merit Award.</font></b> 
 
 * <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2023. .</em>
 
