@@ -9,7 +9,8 @@ author_profile: true
 
 <b>PISCO 2.0</b>
 ======
-* <br>[GitHub Repository](https://github.com/ralobos/PISCO.git)<br>
+
+<br>[GitHub Repository](https://github.com/ralobos/PISCO.git)<br>
 
 We’re pleased to announce the release of PISCO v2.0, a computational tool designed for efficient and accurate sensitivity map estimation in multichannel MRI applications.
 
