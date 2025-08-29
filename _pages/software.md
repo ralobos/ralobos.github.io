@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <b>PISCO 2.0</b>
-======
 
 <br>[GitHub Repository](https://github.com/ralobos/PISCO.git)<br>
 
