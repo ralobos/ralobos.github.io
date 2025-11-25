@@ -11,10 +11,7 @@ author_profile: true
 
 <b>Preprints</b>
 ======
-
 *  <b>R. A. Lobos</b>, X. Wang, R. T. L. Fung, Y. He, D. Frey, D. Gupta, Z. Liu, J. A. Fessler, D. C. Noll.  <br>[Spatiotemporal Maps for Dynamic MRI Reconstruction](https://arxiv.org/abs/2507.14429)<br><em> arXiv:2507.14429, July 2025</em>. 
-
-*  <b>R. A. Lobos</b>, J. Salazar Cavazos, R. R. Nadakuditi, J. A. Fessler.  <br>[Smooth optimization algorithms for global and locally low-rank regularizers](https://arxiv.org/abs/2505.06073)<br><em> arXiv:2505.06073, May 2025</em>. 
 
 <b>Technical Reports</b>
 ======
@@ -22,6 +19,9 @@ author_profile: true
 
 <b>Journal</b>
 ======
+
+*  <b>R. A. Lobos</b>, J. Salazar Cavazos, R. R. Nadakuditi, J. A. Fessler.  <br>[Smooth optimization algorithms for global and locally low-rank regularizers]<br><em> SIAM Journal on Imaging Sciences, (In press)</em>. [(Extended preprint)](https://arxiv.org/abs/2505.06073).
+
 *  <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation in Multichannel MRI](https://ieeexplore.ieee.org/document/10190117)<br><em> IEEE Transactions on Medical Imaging 43:286-296, 2024</em>. [(Extended preprint)](https://arxiv.org/abs/2302.13431). <br>[Related software.](https://mr.usc.edu/download/pisco/)<br>
 
 * D. Kim, J. Coll-Font, <b>R. A. Lobos</b>, D. Stab, J. Pang, A. Foster, T. Garrett, X. Bi, P. Speier, J. P. Haldar, C. Nguyen.  <br>[Single breath-hold CINE imaging with combined Simultaneous Multi-Slice (SMS) and Region-Optimized Virtual (ROVir) coils](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29620)<br><em> Magnetic Resonance in Medicine, 90:222-230, 2023.</em>
