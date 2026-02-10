@@ -45,7 +45,7 @@ the Cramér-Rao lower-bound in astrometry: One dimensional case.](https://iopsci
 <b>Conference</b>
 ======
 
-* <b>R. A. Lobos</b>, C. Keen, S. Kaplan, H. Yu, Y. Jiang, N. Seiberlich, J. F. Nielsen, J. A. Fessler, D. C. Noll.  <br>[Magnetic resonance fingerprinting reconstruction using spatiotemporal maps and implicit neural representation.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2026, p. 4197.</em><br><b>
+* <b>R. A. Lobos</b>, C. Keen, S. Kaplan, H. Yu, Y. Jiang, N. Seiberlich, J. F. Nielsen, J. A. Fessler, D. C. Noll.  <br>[Magnetic resonance fingerprinting reconstruction using spatiotemporal maps and implicit neural representation.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2026, p. 4197.</em><br>
 
 * <b>R. A. Lobos</b>, X. Wang, Z. Liu, J. A. Fessler, D. C. Noll.  <br>[Spatiotemporal maps for dynamic MRI reconstruction: a proof-of-principle demonstration on single-coil animal gastrointestinal data.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2025, p. 2622.</em><br><b><font color="blue">Recipient of a Magna Cum Laude ISMRM Merit Award.</font></b>
 
