@@ -20,8 +20,7 @@ author_profile: true
 <b>Journal</b>
 ======
 
-* <b>R. A. Lobos</b>, X. Wang, R. T. L. Fung, Y. He, D. Frey, D. Gupta, Z. Liu, J. A. Fessler, D. C. Noll.  
-<br>[Spatiotemporal Maps for Dynamic MRI Reconstruction](https://ieeexplore.ieee.org/document/11363451)<br>
+* <b>R. A. Lobos</b>, X. Wang, R. T. L. Fung, Y. He, D. Frey, D. Gupta, Z. Liu, J. A. Fessler, D. C. Noll.  <br>[Spatiotemporal Maps for Dynamic MRI Reconstruction](https://ieeexplore.ieee.org/document/11363451)<br>
 <em> IEEE Transactions on Computational Imaging, (In press)</em>. 
 <br>[Preprint](https://arxiv.org/pdf/2507.14429)</br>
 <br>[Related software.](https://github.com/ralobos/STM_MRI)<br>
