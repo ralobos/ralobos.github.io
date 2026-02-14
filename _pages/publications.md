@@ -20,8 +20,14 @@ author_profile: true
 <b>Journal</b>
 ======
 
-*  <b>R. A. Lobos</b>, X. Wang, R. T. L. Fung, Y. He, D. Frey, D. Gupta, Z. Liu, J. A. Fessler, D. C. Noll.  <br>[Spatiotemporal Maps for Dynamic MRI Reconstruction](https://ieeexplore.ieee.org/document/11363451)<br><em> IEEE Transactions on Computational Imaging, (In press)</em>. <br>[Preprint](https://arxiv.org/pdf/2507.14429)</br>
-<br>[Related software.](https://github.com/ralobos/STM_MRI)<br>
+*  <b>R. A. Lobos</b>, X. Wang, R. T. L. Fung, Y. He, D. Frey, D. Gupta, Z. Liu, J. A. Fessler, D. C. Noll.  
+<br>
+[Spatiotemporal Maps for Dynamic MRI Reconstruction](https://ieeexplore.ieee.org/document/11363451)
+<br>
+<em> IEEE Transactions on Computational Imaging, (In press)</em>.
+<br>
+[Preprint](https://arxiv.org/pdf/2507.14429)[Related software.](https://github.com/ralobos/STM_MRI)
+<br>
 
 *  <b>R. A. Lobos</b>, J. Salazar Cavazos, R. R. Nadakuditi, J. A. Fessler.  <br>[Smooth optimization using global and local low-rank regularizers](https://arxiv.org/abs/2505.06073)<br><em> SIAM Journal on Imaging Sciences, (In press)</em>. <br>[Related software.](https://github.com/ralobos/smooth_LLR)<br>
 
