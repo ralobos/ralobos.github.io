@@ -24,7 +24,7 @@ author_profile: true
 <em> IEEE Transactions on Computational Imaging, 12:416-430, 2026</em>. 
 <br>[Preprint](https://arxiv.org/abs/2507.14429) <br>[Related software.](https://github.com/ralobos/STM_MRI)<br>
 
-*  <b>R. A. Lobos</b>, J. Salazar Cavazos, R. R. Nadakuditi, J. A. Fessler.  <br>[Smooth optimization using global and local low-rank regularizers](https://arxiv.org/abs/2505.06073)<br><em> SIAM Journal on Imaging Sciences, (In press)</em>. <br>[Related software.](https://github.com/ralobos/smooth_LLR)<br>
+*  <b>R. A. Lobos</b>, J. Salazar Cavazos, R. R. Nadakuditi, J. A. Fessler.  <br>[Smooth optimization using global and local low-rank regularizers](https://arxiv.org/abs/2505.06073)<br><em> SIAM Journal on Imaging Sciences, 19:839-878, 2026</em>. <br>[Related software.](https://github.com/ralobos/smooth_LLR)<br>
 
 *  <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation in Multichannel MRI](https://ieeexplore.ieee.org/document/10190117)<br><em> IEEE Transactions on Medical Imaging 43:286-296, 2024</em>. <br>[Extended preprint](https://arxiv.org/abs/2302.13431). <br>[Related software.](https://github.com/ralobos/PISCO)<br>
 
