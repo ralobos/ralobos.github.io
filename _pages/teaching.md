@@ -9,6 +9,7 @@ author_profile: true
 
 <b>At University of Michigan</b>
 ======
+* Lecturer: (ECE551) <em>Matrix Methods for Signal Processing, Data Analysis and Machine Learning </em>, Fall 2026.<br> 
 * Lecturer: (ECE551) <em>Matrix Methods for Signal Processing, Data Analysis and Machine Learning </em>, Fall 2024.<br> 
 
 <b>At University of Southern California</b>
