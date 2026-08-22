@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "ECE551"
-permalink: /ECE551_lectures/
+permalink: /ECE551_lectures_f26/
 author_profile: true
 ---
 
