@@ -11,4 +11,4 @@ author_profile: true
 <b>Evolving lecture-by-lecture topics</b>
 ======
 
-* Lecture 1 (Sep. 01st, 2026): 
+* Lecture 1 (Sep. 01st, 2026): Syllabus; Fields; Vector Fields; The two interpretations of matrices; Important Matrices  
